@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.17ca190b.css",
+    "main.js": "./static/js/main.e4afc80d.js",
+    "static/media/omsk.png": "./static/media/omsk.edbf9309a20f3b97f9fa.png",
+    "index.html": "./index.html",
+    "main.17ca190b.css.map": "./static/css/main.17ca190b.css.map",
+    "main.e4afc80d.js.map": "./static/js/main.e4afc80d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ca190b.css",
+    "static/js/main.e4afc80d.js"
+  ]
+}
